@@ -80,6 +80,8 @@ CIT 코딩학원 근무
 > 근무 내용 : 코딩 강사 업무
 
 ## 기술
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipper1002&layout=compact&theme=white)
+ <br/>
  알고리즘
 
 
