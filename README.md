@@ -10,6 +10,7 @@
 <br/><br/>
 ## 개발 게임
 ### [네모왕국 흑vs백 2](https://github.com/dipper1002/portfolio/tree/main/Game/nemowar2)
+> (2015 ~ 2016)
 ## 기술
  알고리즘
 
