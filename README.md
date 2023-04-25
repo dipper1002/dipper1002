@@ -11,4 +11,4 @@
 >
 >
 >[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dipper1002)](https://solved.ac/dipper1002)<br/>
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipper1002&langs_count=10&layout=compact)]()
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipper1002&layout=compact)](https://github.com/dipper1002/github-readme-stats)
