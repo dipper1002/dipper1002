@@ -1,4 +1,4 @@
-'''cpp
+```cpp
 
 #include <iostream>
 #define MOD 1000000007;
@@ -92,4 +92,4 @@ int main() {
     cout<<solve(n*m,0);
 	return 0;
 }
-  '''
+```
