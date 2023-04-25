@@ -41,18 +41,6 @@
 > (2022 ~ ) 온라인서비스중
 
 
-## 기술
- 알고리즘
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dipper1002)](https://solved.ac/dipper1002)<br/>
-
- C/C++
-  
- Unity
-  
- GameMaker
-  <br/><br/>
 ## 학력
  **한국 애니메이션 고등학교** 
  
@@ -87,3 +75,23 @@ CIT 코딩학원 근무
 - ### 2022/07 ~ 
 CIT 코딩학원 근무
 > 근무 내용 : 코딩 강사 업무
+
+## 기술
+ 알고리즘
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dipper1002)](https://solved.ac/dipper1002)<br/>
+
+ C/C++
+  
+ Unity
+  
+ GameMaker
+  <br/><br/>
+## 자격증
+- 정보기기운용기능사
+> 2018/07/03
+- SQLD
+> 2022/06/24
+- JLPT n2
+> 2023/01/12
