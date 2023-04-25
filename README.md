@@ -1,14 +1,51 @@
 # PORTFOLIO
 ## 개요
-> **황태웅**
->
-> 이메일 : dipper1002@naver.com
->
-> 연락처 : 010 - 9108 - 6454
+  ### **황태웅**
 
+ 이메일 : dipper1002@naver.com
+
+ 연락처 : 010 - 9108 - 6454
+<br/><br/>
 ## 기술
->백준 Solved.ac
->
->
->[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dipper1002)](https://solved.ac/dipper1002)<br/>
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipper1002&layout=compact)](https://github.com/dipper1002/github-readme-stats)
+ 알고리즘
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dipper1002)](https://solved.ac/dipper1002)<br/>
+
+ C/C++
+  
+ Unity
+  
+ GameMaker
+  <br/><br/>
+## 학력
+ **한국 애니메이션 고등학교** 
+ 
+ >(2016/03 ~ 2019/01)
+  
+ 컴퓨터 게임 제작과 재학 및 졸업
+<br/><br/>
+ 
+ **국민대학교**
+
+  >(2019/03 ~ )
+  
+  소프트웨어학부 3학년 재학중
+  <br/><br/>
+## 수상
+- ### 2018
+ **정보올림피아드**
+  
+ >정보올림피아드 고등부 예선 장려상
+ > 
+ >정보올림피아드 고등부 본선 동상
+  <br/><br/>
+## 재직 이력
+- ### 2019/07 ~ 2020/03
+CIT 코딩학원 근무
+> 근무 내용 : 코딩 강사 업무
+- ### 2020/08 ~ 2022/02
+육군 복무
+- ### 2022/07 ~ 
+CIT 코딩학원 근무
+> 근무 내용 : 코딩 강사 업무
