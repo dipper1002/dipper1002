@@ -69,11 +69,14 @@
  - ### 2022
  **UCPC**
  >예선 5문제 Solved
+ <br/><br/>
 - ### 2023
 **UCPC**
 >예선 3문제 Solved
+>
 **ICPC**
 >팀명 : ScratchMaster
+>
 >예선 4문제 Solved 46th -> 본선 진출
 ## 재직 이력
 - ### 2019/07 ~ 2020/03
