@@ -21,7 +21,7 @@
 > (2017)
 ### [으악! 어디야!](https://github.com/dipper1002/dipper1002/tree/main/Game/WhereAre)
 > (2017)
-### [네모왕국 흑vs백 4](https://github.com/dipper1002/dipper1002/tree/main/Game/nemowar4)
+### [네모왕국 흑vs백 4](https://github.com/dipper1002/dipper1002/tree/main/Game/nemowar4.)
 > (2017)
 ### [Rucid](https://github.com/dipper1002/dipper1002/tree/main/Game/Rucid)
 > (2017)
