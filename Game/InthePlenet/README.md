@@ -19,7 +19,9 @@
 > 원형의 필드를 전장으로 채용하여 원 안에서 전투하는 다이나믹한 슈팅 액션 게임
 >
 > 다양한 총과 몬스터, 그리고 보스가 구현되어 있음.
-> 
+>
+[유튜브 링크](https://youtu.be/KK9MUdIqjfg)
+
 [![Video Label](http://img.youtube.com/vi/KK9MUdIqjfg/0.jpg)](https://youtu.be/KK9MUdIqjfg)
 ![캡처_2017_04_01_17_05_40_594](https://github.com/dipper1002/dipper1002/assets/42773970/4f1bb9ed-8212-4791-b13a-bdd365cfe57e)
 ![캡처_2017_04_01_17_05_43_499](https://github.com/dipper1002/dipper1002/assets/42773970/3f533d08-d85c-4e5e-9750-92538b0d9224)
