@@ -19,15 +19,15 @@
 > (2017)
 ### [Dark Matter](https://github.com/dipper1002/dipper1002/tree/main/Game/DarkMatter)
 > (2017)
-### 으악! 어디야!
+### [으악! 어디야!](https://github.com/dipper1002/dipper1002/tree/main/Game/WhereAre)
 > (2017)
-### 네모왕국 흑vs백 4
+### [네모왕국 흑vs백 4](https://github.com/dipper1002/dipper1002/tree/main/Game/nemowar4)
 > (2017)
-### Rucid
+### [Rucid](https://github.com/dipper1002/dipper1002/tree/main/Game/Rucid)
 > (2017)
-### 오목 AI프로그램
+### [오목 AI프로그램](https://github.com/dipper1002/dipper1002/tree/main/Game/omokAI)
 > (2018)
-### 죠죠의 기묘한 던전
+### [죠죠의 기묘한 던전](https://github.com/dipper1002/dipper1002/tree/main/Game/JOJO)
 > (2018)
 ### HSV
 > (2019)
