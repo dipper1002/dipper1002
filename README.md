@@ -29,7 +29,7 @@
 > 
 > (2022 ~ ) 온라인서비스중
 > 
-[![Video Label](http://img.youtube.com/vi/>kRmTY_UlJ3k/0.jpg)](https://youtu.be/>kRmTY_UlJ3k)
+[![Video Label](http://img.youtube.com/vi/kRmTY_UlJ3k/0.jpg)](https://youtu.be/kRmTY_UlJ3k)
 > 1만+ 다운로드
 
 
