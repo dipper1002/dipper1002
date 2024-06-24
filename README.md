@@ -40,6 +40,14 @@
 [![Video Label](http://img.youtube.com/vi/kRmTY_UlJ3k/0.jpg)](https://youtu.be/kRmTY_UlJ3k)
 > 1만+ 다운로드
 
+<hr>
+
+### [Last Light](https://github.com/kookmin-sw/capstone-2024-28)
+> (2024)
+>
+> 국민대 졸업작품
+
+![gif-ezgif com-optimize](https://github.com/kookmin-sw/capstone-2024-28/assets/55117761/5c8f99e5-1d15-4ca0-955a-949be059ff82)
 
 
 ## 어릴적 개발 게임
