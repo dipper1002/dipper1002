@@ -26,18 +26,19 @@
 >
 > 특히 멀티플레이의 초점을 강하게 집중하여 멀티플레이를 통해 지속적인 유저간의 경쟁을 유도하였음.
 
-[유튜브 링크](https://youtu.be/ry5Y8NBa_4w)
+[구글플레이스토어 링크](https://play.google.com/store/apps/details?id=com.dippergames.nemokingdom&hl=ko)
 
-[![Video Label](http://img.youtube.com/vi/ry5Y8NBa_4w/0.jpg)](https://youtu.be/ry5Y8NBa_4w)
-![unnamed (3)](https://github.com/dipper1002/dipper1002/assets/42773970/c21fb4dd-cdc5-4fee-84c4-b2c4555dd537)
-![unnamed (4)](https://github.com/dipper1002/dipper1002/assets/42773970/c670a806-51af-464e-a29b-9859fea1d07a)
-![unnamed](https://github.com/dipper1002/dipper1002/assets/42773970/f0baa2ac-f3c0-492f-856b-dfccaab77e63)
-![unnamed (1)](https://github.com/dipper1002/dipper1002/assets/42773970/8d1f26a5-73fa-4db5-b9c6-f96e040f7e0f)
-![unnamed (2)](https://github.com/dipper1002/dipper1002/assets/42773970/0483ceb3-c5bb-4eff-9a5b-4eb20547261f)
+[유튜브 링크](https://youtu.be/kRmTY_UlJ3k)
+
+[![Video Label](http://img.youtube.com/vi/kRmTY_UlJ3k/0.jpg)](https://youtu.be/kRmTY_UlJ3k)
+
+![unnamed (5)](https://github.com/dipper1002/dipper1002/assets/42773970/e72023cd-1b96-4295-ab68-80fdf64ddcae)
+![unnamed (6)](https://github.com/dipper1002/dipper1002/assets/42773970/d1dbe153-f6b5-4754-b583-1c3c81363fbd)
+![unnamed (7)](https://github.com/dipper1002/dipper1002/assets/42773970/cf365192-c03f-4f1f-98af-d8bfa5c4fd2e)
+![unnamed (8)](https://github.com/dipper1002/dipper1002/assets/42773970/a90bc0ff-b52b-45b3-92c9-bf0034270cf1)
 
 ## 주요 테크닉
 
 ### 뒤끝 (게임 서버 & 실시간 멀티 플레이)
-### Stack을 이용한 Popup 관리
 ### 비트마스킹을 이용한 멀티 플레이 전송 데이터 감축
 ### 안티치트를 이용한 데이터 암호화, 데이터 변경 감지 및 서버로그 보관
