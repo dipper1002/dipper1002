@@ -8,7 +8,18 @@
  
  게임개발자
 <br/><br/>
-## 개발 게임
+## 주요 개발 게임
+### 네모왕국 온라인
+> (2019)
+> 
+> (2019 ~ 2022) 온라인서비스
+### 네모왕국
+> (2022)
+> 
+> (2022 ~ ) 온라인서비스중
+
+
+## 어릴적 개발 게임
 ### [네모왕국 흑vs백](https://github.com/dipper1002/portfolio/tree/main/Game/nemowar1)
 > (2015)
 ### [네모왕국 흑vs백 2](https://github.com/dipper1002/portfolio/tree/main/Game/nemowar2)
@@ -31,14 +42,7 @@
 > (2018)
 ### [HSV](https://github.com/dipper1002/dipper1002/tree/main/Game/HSV)
 > (2019)
-### 네모왕국 온라인
-> (2019)
-> 
-> (2019 ~ 2022) 온라인서비스
-### 네모왕국
-> (2022)
-> 
-> (2022 ~ ) 온라인서비스중
+
 
 
 ## 학력
