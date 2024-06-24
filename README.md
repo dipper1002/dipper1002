@@ -7,6 +7,10 @@
  연락처 : 010 - 9108 - 6454
 
  게임개발자
+
+ 블로그 : <a href="https://blog.naver.com/dipper1002">
+  <img src="https://github.com/dipper1002/dipper1002/assets/42773970/12ff8781-3542-47d9-8bda-f6cc9bb756a5" height="26px" style="margin-top: 10px" />
+  </a>
 <br/><br/>
 ## 주요 개발 게임
 ### 네모키우기 (현재 개발중)
