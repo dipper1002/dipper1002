@@ -27,6 +27,7 @@
 [유튜브 링크](https://youtu.be/ry5Y8NBa_4w)
 
 [![Video Label](http://img.youtube.com/vi/ry5Y8NBa_4w/0.jpg)](https://youtu.be/ry5Y8NBa_4w)
+
 ![unnamed (3)](https://github.com/dipper1002/dipper1002/assets/42773970/c21fb4dd-cdc5-4fee-84c4-b2c4555dd537)
 ![unnamed (4)](https://github.com/dipper1002/dipper1002/assets/42773970/c670a806-51af-464e-a29b-9859fea1d07a)
 ![unnamed](https://github.com/dipper1002/dipper1002/assets/42773970/f0baa2ac-f3c0-492f-856b-dfccaab77e63)
