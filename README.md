@@ -30,6 +30,7 @@
 [![Video Label](http://img.youtube.com/vi/JcDEX-CtU2g/0.jpg)](https://youtu.be/JcDEX-CtU2g)
 > 5만+ 다운로드
 
+> 역할 : 팀장 및 인게임 구현, 멀티플레이(포톤)
 <hr>
 
 ### 네모왕국
@@ -40,6 +41,7 @@
 [![Video Label](http://img.youtube.com/vi/kRmTY_UlJ3k/0.jpg)](https://youtu.be/kRmTY_UlJ3k)
 > 1만+ 다운로드
 
+> 역할 : 팀장 및 인게임 구현, 멀티플레이(뒤끝매치)
 <hr>
 
 ### [Last Light](https://github.com/kookmin-sw/capstone-2024-28)
@@ -48,6 +50,8 @@
 > 국민대 졸업작품
 
 ![gif-ezgif com-optimize](https://github.com/kookmin-sw/capstone-2024-28/assets/55117761/5c8f99e5-1d15-4ca0-955a-949be059ff82)
+
+> 역할 : 아이템 기능 개발 및 그래픽
 
 
 ## 어릴적 개발 게임
