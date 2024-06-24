@@ -18,10 +18,20 @@
 > (2019)
 > 
 > (2019 ~ 2022) 온라인서비스
+> 
+50만 유튜버 "썩쏘"의 게임리뷰
+> 
+[![Video Label](http://img.youtube.com/vi/JcDEX-CtU2g/0.jpg)](https://youtu.be/JcDEX-CtU2g)
+> 5만+ 다운로드
+
 ### 네모왕국
 > (2022)
 > 
 > (2022 ~ ) 온라인서비스중
+> 
+[![Video Label](http://img.youtube.com/vi/>kRmTY_UlJ3k/0.jpg)](https://youtu.be/>kRmTY_UlJ3k)
+> 1만+ 다운로드
+
 
 
 ## 어릴적 개발 게임
