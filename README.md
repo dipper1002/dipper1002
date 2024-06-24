@@ -60,7 +60,7 @@
 [**세부 내용**](https://github.com/kookmin-sw/capstone-2024-28)
 
 
-## 어릴적 개발 게임
+## 기타
 ### [네모왕국 흑vs백](https://github.com/dipper1002/portfolio/tree/main/Game/nemowar1)
 > (2015)
 ### [네모왕국 흑vs백 2](https://github.com/dipper1002/portfolio/tree/main/Game/nemowar2)
