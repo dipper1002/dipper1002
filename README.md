@@ -20,7 +20,7 @@
 
 <hr>
 
-### 네모왕국 온라인
+### [네모왕국 온라인](https://github.com/dipper1002/dipper1002/blob/main/Game/NemoOnline)
 > (2019)
 > 
 > (2019 ~ 2022) 온라인서비스
@@ -31,9 +31,11 @@
 > 5만+ 다운로드
 
 > 역할 : 팀장 및 인게임 구현, 멀티플레이(포톤)
+
+## [세부 내용](https://github.com/dipper1002/dipper1002/blob/main/Game/NemoOnline)
 <hr>
 
-### 네모왕국
+### [네모왕국](https://github.com/dipper1002/dipper1002/blob/main/Game/NemoWar)
 > (2022)
 > 
 > (2022 ~ ) 온라인서비스중
@@ -42,6 +44,8 @@
 > 1만+ 다운로드
 
 > 역할 : 팀장 및 인게임 구현, 멀티플레이(뒤끝매치)
+
+## [세부 내용](https://github.com/dipper1002/dipper1002/blob/main/Game/NemoWar)
 <hr>
 
 ### [Last Light](https://github.com/kookmin-sw/capstone-2024-28)
@@ -52,6 +56,8 @@
 ![gif-ezgif com-optimize](https://github.com/kookmin-sw/capstone-2024-28/assets/55117761/5c8f99e5-1d15-4ca0-955a-949be059ff82)
 
 > 역할 : 아이템 기능 개발 및 그래픽
+
+## [세부 내용](https://github.com/kookmin-sw/capstone-2024-28)
 
 
 ## 어릴적 개발 게임
